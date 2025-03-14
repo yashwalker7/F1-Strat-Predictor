@@ -95,5 +95,5 @@ Distributed under MIT License. See `LICENSE` for more information.
 
 ## ✉️ Contact
 For questions/suggestions:  
-[![Email](https://img.shields.io/badge/Email-YourName%40domain.com-blue)](mailto:yourname@domain.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-YourName%40domain.com-blue)](mailto:yash.vaman7@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue)](https://linkedin.com/in/YashVaman)
