@@ -60,13 +60,6 @@ streamlit run app.py
 </div>
 
 <details>
-<summary>📷 Click to view image descriptions</summary>
-
-1. **Strategy Comparison** - Direct overlay of 1-stop vs 2-stop lap times  
-2. **Weather Impact** - Wet vs dry condition performance delta  
-3. **Tyre Analysis** - Degradation patterns across compounds  
-4. **Model Metrics** - R² score and prediction speed details  
-5. **Simulation Interface** - User-adjustable parameters panel
 
 </details>
 
