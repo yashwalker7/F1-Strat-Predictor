@@ -95,4 +95,4 @@ Distributed under MIT License. See `LICENSE` for more information.
 
 ## ✉️ Contact
 For questions/suggestions:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue)](https://linkedin.com/in/YashVaman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YashVaman-blue)](https://linkedin.com/in/YashVaman)
