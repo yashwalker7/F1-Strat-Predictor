@@ -38,7 +38,7 @@ streamlit run app.py
 2. Access via Hugging Face: [Live Demo](https://huggingface.co/spaces/solosikoa/F1_Strat_Predictor)
 
 ### Notebook Version
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yfHjxNLwwg1hlrkd3ssgE71MguS3S-dD?usp=sharing)
 ## 📊 Sample Output
 ![Strategy Comparison](assets/demo.gif)
 
